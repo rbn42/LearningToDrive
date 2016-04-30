@@ -6,3 +6,5 @@
 ctags
 .tags
 build
+.project
+.pydevproject
